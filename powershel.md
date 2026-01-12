@@ -1,4 +1,4 @@
-Perfect ✅ — here’s a **brief, complete summary** of all the commands you ran to get your JavaFX app working in **PowerShell without admin**:
+To get your JavaFX app working in **PowerShell without admin**:
 
 ---
 
@@ -77,6 +77,4 @@ java --module-path $env:FX --add-modules javafx.controls,javafx.fxml SpareBnbApp
 
 ✅ With this, **your JavaFX app runs in PowerShell only**, no admin rights, no GUI installer.
 
-If you want, I can make a **single PowerShell script** that does all of this in one go — download JDK, JavaFX, compile, and run — so you just run **one file** to launch your app.
 
-Do you want me to do that?
